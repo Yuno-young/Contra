@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\assets\\scenes\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\assets\\scenes\\scripts\\playerlive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\playerlive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\assets\\scenes\\scripts\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\assets\\scenes\\scripts\\firetrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\firetrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\assets\\scenes\\scripts\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|d:\\downloads\\nho\u0301m 24 game\\nhom24_gamecontra-final\\assets\\scenes\\scripts\\escbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\escbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|d:\\downloads\\nho\u0301m 24 game\\nhom24_gamecontra-final\\assets\\scenes\\scripts\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\assets\\scenes\\scripts\\betterjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\betterjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\assets\\scenes\\scripts\\walkingenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\walkingenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\assets\\scenes\\scripts\\cameralevel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\cameralevel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\assets\\scenes\\scripts\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\assets\\scenes\\scripts\\startbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\startbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\assets\\scenes\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\assets\\scenes\\scripts\\playgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\playgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\StandaloneInputModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\StandaloneInputModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\assets\\scenes\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B4313-3554-7EDF-6880-4FBDCA716B17}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shooting.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\Shooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Shooting.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\Shooting.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Shooting.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:08:16.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ESCButton.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\ESCButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\ESCButton.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\ESCButton.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\ESCButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:05:33.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EndGame.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\EndGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\EndGame.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\EndGame.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\EndGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:04:22.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FireTrap.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\FireTrap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\FireTrap.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\FireTrap.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\FireTrap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:06:03.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Movement.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\Movement.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Movement.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAiwJYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:51:30.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerLive.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\PlayerLive.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\PlayerLive.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\PlayerLive.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\PlayerLive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:09:33.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NextLevel.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\NextLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\NextLevel.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\NextLevel.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\NextLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:42:32.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CameraLevel1.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\CameraLevel1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\CameraLevel1.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\CameraLevel1.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\CameraLevel1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:34:02.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Turret.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\Turret.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Turret.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\Turret.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Turret.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:23:36.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BetterJump.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\BetterJump.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\BetterJump.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\BetterJump.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\BetterJump.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:12:18.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WalkingEnemy.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\WalkingEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\WalkingEnemy.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\WalkingEnemy.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\WalkingEnemy.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:40:28.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayGame.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\PlayGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\PlayGame.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\PlayGame.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\PlayGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:46:05.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\Platform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Platform.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\Platform.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Platform.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:50:34.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StartButton.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\StartButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\StartButton.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\StartButton.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\StartButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:50:44.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\CameraMovement.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Assets\\Scenes\\Scripts\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\CameraMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:37:12.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StandaloneInputModule.cs",
+              "DocumentMoniker": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\StandaloneInputModule.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\StandaloneInputModule.cs",
+              "ToolTip": "D:\\Downloads\\Nho\u0301m 24 game\\Nhom24_GameContra-final\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\StandaloneInputModule.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\StandaloneInputModule.cs",
+              "ViewState": "AgIAAKEBAAAAAAAAAAAAADoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:35:19.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

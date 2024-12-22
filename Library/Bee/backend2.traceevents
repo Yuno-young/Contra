@@ -1,0 +1,311 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1734877445595619, "dur":21640, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734877445617267, "dur":87, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734877445617400, "dur":283, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734877445617852, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/level5" }}
+,{ "pid":12345, "tid":0, "ts":1734877445618710, "dur":142, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734877445619006, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734877445619145, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734877445617713, "dur":4009, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734877445621723, "dur":227896, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734877445849620, "dur":57, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734877445849875, "dur":1917, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1734877445618458, "dur":3315, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734877445621774, "dur":316, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734877445622090, "dur":1410, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734877445624172, "dur":3585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1734877445627810, "dur":13826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1734877445641938, "dur":3975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1734877445646046, "dur":7102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445653219, "dur":4213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445658248, "dur":202, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734877445657488, "dur":3620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445661164, "dur":3330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445664546, "dur":4054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445668666, "dur":3502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Services.Analytics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445672219, "dur":3005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445675282, "dur":4242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445679596, "dur":3669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445683336, "dur":2773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445687867, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734877445686184, "dur":3807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445690047, "dur":2551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445692661, "dur":2793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445695516, "dur":9201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445704783, "dur":1487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445706332, "dur":1376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445708562, "dur":799, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734877445707781, "dur":5796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445713637, "dur":4180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445717865, "dur":96, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734877445717966, "dur":11423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734877445731430, "dur":138, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734877445729491, "dur":8596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1734877445738146, "dur":1263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":1, "ts":1734877445739464, "dur":1123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":1, "ts":1734877445740654, "dur":2400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":1, "ts":1734877445743155, "dur":5993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1734877445749197, "dur":5426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1734877445754694, "dur":1086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/level2" }}
+,{ "pid":12345, "tid":1, "ts":1734877445755830, "dur":3255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1734877445759116, "dur":90428, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734877445618400, "dur":3356, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734877445621758, "dur":325, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734877445622083, "dur":1436, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734877445624794, "dur":12854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1734877445638650, "dur":195, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734877445637756, "dur":6890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1734877445644953, "dur":5398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1734877445650422, "dur":6772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445658179, "dur":169, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734877445657283, "dur":3639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445660984, "dur":6166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445667218, "dur":6150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445673431, "dur":3992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445677526, "dur":3090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445680686, "dur":3343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.Purchasing.AppleCore.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445684110, "dur":3529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445687739, "dur":4633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445692468, "dur":5218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445697774, "dur":8217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445706075, "dur":3144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445709270, "dur":367, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734877445709642, "dur":2314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445712019, "dur":89, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734877445712115, "dur":5305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445717487, "dur":461, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734877445718069, "dur":4797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445723014, "dur":1946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734877445724994, "dur":131, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\com.unity.services.core\\UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":2, "ts":1734877445724992, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":2, "ts":1734877445725374, "dur":7345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":2, "ts":1734877445732792, "dur":82, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734877445734335, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734877445732881, "dur":4298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1734877445737253, "dur":60, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734877445744544, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734877445737320, "dur":11642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1734877445749152, "dur":4281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1734877445754538, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734877445753492, "dur":1495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/level3" }}
+,{ "pid":12345, "tid":2, "ts":1734877445755047, "dur":6033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1734877445761123, "dur":88319, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734877445618234, "dur":3495, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734877445621731, "dur":1740, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734877445624902, "dur":473, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":3, "ts":1734877445625383, "dur":141, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1734877445625542, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1734877445625828, "dur":124, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445625956, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.AppleMacosStub.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445626026, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.AppleCore.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445626090, "dur":193, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.Stores.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445626285, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445626370, "dur":91, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445626463, "dur":65, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.AppleStub.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445626530, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.WinRTCore.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445626594, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.SecurityStub.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445626672, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445626756, "dur":138, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445626896, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445626969, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445627037, "dur":133, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445627171, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445627230, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Purchasing.Common.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445627290, "dur":65, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445627356, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445627443, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445627504, "dur":222, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445627728, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445627794, "dur":149, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445627945, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445628015, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445628079, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445628145, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.WinRTStub.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445628210, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Analytics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445628319, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.SecurityCore.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445628382, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.Codeless.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445628456, "dur":291, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445628750, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445628828, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445628895, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Downloads\\Nhom 24 game\\Nhom24_GameContra-final\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734877445629060, "dur":89, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player7cc83ad2-inputdata.json" }}
+,{ "pid":12345, "tid":3, "ts":1734877445625381, "dur":3865, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1734877445629603, "dur":81, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734877445629969, "dur":214688, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1734877445847182, "dur":1080, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1734877445847180, "dur":1085, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1734877445848294, "dur":1098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1734877445618237, "dur":3498, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734877445621737, "dur":347, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734877445622084, "dur":1417, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734877445624309, "dur":8556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1734877445632903, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1734877445633184, "dur":11244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1734877445644500, "dur":5146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1734877445650029, "dur":5172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445655249, "dur":5183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445660528, "dur":2974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445663554, "dur":1209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445664813, "dur":3597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Analytics.Tracker.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445668473, "dur":1598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.Purchasing.SecurityCore.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445670129, "dur":1105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445671316, "dur":2952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445674326, "dur":1170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445675547, "dur":3577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445679181, "dur":3764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445683008, "dur":1319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445684389, "dur":3494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445687980, "dur":2377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445690422, "dur":2587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445693072, "dur":2805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445695931, "dur":9701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445705715, "dur":3256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445709025, "dur":350, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734877445709378, "dur":6535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445717709, "dur":244, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734877445715977, "dur":5120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445721153, "dur":4658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734877445725877, "dur":7457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets6.resource" }}
+,{ "pid":12345, "tid":4, "ts":1734877445733414, "dur":12031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":4, "ts":1734877445745478, "dur":997, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734877445746482, "dur":15183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1734877445761698, "dur":87758, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734877445618305, "dur":3440, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734877445621747, "dur":302, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734877445622050, "dur":240, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734877445622290, "dur":1195, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734877445624620, "dur":2869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1734877445627563, "dur":13632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1734877445641523, "dur":4754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1734877445646347, "dur":7061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24.exe" }}
+,{ "pid":12345, "tid":5, "ts":1734877445653459, "dur":4566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445658086, "dur":4071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445662229, "dur":3643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445665967, "dur":3448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445669483, "dur":826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445670361, "dur":3582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445674008, "dur":3588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Purchasing.Common.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445677652, "dur":3277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.Purchasing.SecurityStub.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445680995, "dur":4879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.Purchasing.AppleMacosStub.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445685931, "dur":3731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445689720, "dur":2242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445692025, "dur":3655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445695738, "dur":8761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445704586, "dur":4128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445708765, "dur":604, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734877445709375, "dur":1354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445710904, "dur":4044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445715009, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445715149, "dur":5173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445720389, "dur":4751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445725220, "dur":20506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734877445745774, "dur":176, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734877445745956, "dur":5987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1734877445752001, "dur":4343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/level5" }}
+,{ "pid":12345, "tid":5, "ts":1734877445756395, "dur":104, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734877445756505, "dur":4969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1734877445761507, "dur":87951, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734877445618276, "dur":3464, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734877445621742, "dur":320, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734877445622062, "dur":197, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734877445622260, "dur":1220, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734877445624557, "dur":13553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1734877445638192, "dur":7367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1734877445646895, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734877445645805, "dur":8953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445656150, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734877445654837, "dur":3817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445658714, "dur":3791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445662567, "dur":3839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445666462, "dur":5482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445672020, "dur":2936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445675051, "dur":3294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445678408, "dur":4304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.Purchasing.AppleStub.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445682766, "dur":2950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445685781, "dur":3679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445689559, "dur":1648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445691268, "dur":3537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445696988, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734877445694879, "dur":10059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445705010, "dur":2485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445707588, "dur":5832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445713489, "dur":5047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445718627, "dur":4731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445723420, "dur":5622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734877445729120, "dur":16143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":6, "ts":1734877445745328, "dur":6401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1734877445751833, "dur":8921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/level6" }}
+,{ "pid":12345, "tid":6, "ts":1734877445760801, "dur":88647, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734877445618391, "dur":3359, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734877445621752, "dur":277, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734877445622030, "dur":264, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734877445622294, "dur":1207, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734877445624154, "dur":8599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1734877445633935, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734877445633199, "dur":10991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1734877445644312, "dur":4941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1734877445649319, "dur":161, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734877445653611, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734877445650011, "dur":5573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445655632, "dur":5061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445660774, "dur":3229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445664071, "dur":3759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Analytics.StandardEvents.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445668681, "dur":97, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734877445667908, "dur":5761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.Purchasing.Codeless.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445673731, "dur":2269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445676065, "dur":4003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445680490, "dur":4940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.Purchasing.Stores.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445685497, "dur":3077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445688644, "dur":2981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445691683, "dur":80, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734877445691769, "dur":3329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445695184, "dur":10219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445705463, "dur":4692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445710225, "dur":4034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445714336, "dur":5075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445719478, "dur":2785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445722336, "dur":5177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734877445728818, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734877445727592, "dur":6826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1734877445734540, "dur":13393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":7, "ts":1734877445747999, "dur":54, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734877445748074, "dur":5042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1734877445754139, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734877445753182, "dur":8082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/level4" }}
+,{ "pid":12345, "tid":7, "ts":1734877445761295, "dur":88127, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734877445618423, "dur":3339, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734877445621765, "dur":325, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734877445622090, "dur":1388, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734877445624389, "dur":3629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/app.info" }}
+,{ "pid":12345, "tid":8, "ts":1734877445628277, "dur":15070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1734877445643525, "dur":4350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1734877445650634, "dur":1024, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734877445648350, "dur":6599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1734877445655070, "dur":3779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445658899, "dur":6519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445665475, "dur":3437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.Purchasing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445668968, "dur":3369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.Purchasing.WinRTStub.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445672387, "dur":5538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445677947, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.Purchasing.WinRTCore.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445678096, "dur":3155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.Purchasing.WinRTCore.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445681368, "dur":3273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445684701, "dur":3399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445688158, "dur":2521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445690737, "dur":2576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445693406, "dur":2821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445696291, "dur":8848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445705198, "dur":1420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445706672, "dur":3726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445710456, "dur":4034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445714550, "dur":5287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445719895, "dur":3959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445723949, "dur":5983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734877445730009, "dur":7773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":8, "ts":1734877445737855, "dur":1188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":8, "ts":1734877445739119, "dur":8990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1734877445748163, "dur":7304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1734877445755608, "dur":3169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1734877445758839, "dur":1335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Downloads/Nhom 24 game/ContraG24/ContraG24_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1734877445760219, "dur":89249, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734877445854154, "dur":1456, "ph":"X", "name": "ProfilerWriteOutput" }
+,

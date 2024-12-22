@@ -1,0 +1,2 @@
+D:\Admin\Nam_3_hoc_ky_2_dai_hoc\CongNgheDaPhuongTien\Contra-Like-game-made-with-unity-master\Contra-Like-game-made-with-unity-master\Contra\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\Admin\Nam_3_hoc_ky_2_dai_hoc\CongNgheDaPhuongTien\Contra-Like-game-made-with-unity-master\Contra-Like-game-made-with-unity-master\Contra\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

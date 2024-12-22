@@ -1,0 +1,7299 @@
+fileFormatVersion: 2
+guid: 7cd9cc0b0b018cc40833351c9c855c18
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 392
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cbeec5e16e36049ad24670eb524707
+      internalID: 1856153173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 392
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230a34a3435a71544890b0176c0be45f
+      internalID: -184746116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 392
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4c2ebee827a0e4ab04669e47ed733b
+      internalID: -37157031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_3
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 391
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6819212f87f02c14ba90c1368998233f
+      internalID: -1488181623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_4
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 392
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8134fdfcb21a3b342bf22be2a7987c3c
+      internalID: 1002958843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_5
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 392
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fb132317b779a4387e593ffdf63f57
+      internalID: -1157644779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_6
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 392
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b21bceff111544ae578f7e4558cca
+      internalID: 243268639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 385
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b6a628b5784114ca6ff70239f16144
+      internalID: 725192988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_8
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 385
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6012729c156682442b49d009d223bee4
+      internalID: -2104520832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_9
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 392
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179a07242737f944da71141af086e580
+      internalID: -2047796903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_10
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 425
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff02de7804bc9a45a72456125bf0050
+      internalID: 507900193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_11
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 425
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b460a7d07a7984e93ff2ab52ba54d5
+      internalID: -1843591681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_12
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 425
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f04efc94823ca6429fec2bedf9bcd99
+      internalID: -1354147590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 392
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ffcf3fb7acb1a418d3510fdf18d1b4
+      internalID: 1419620446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 391
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cb084e85218da4e85177143a1f29d1
+      internalID: -543418101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 392
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891035e7e2fe88849a5f474dc73000c2
+      internalID: 1565589559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 392
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25151654b88ed7b4f8f67c22b6c51f60
+      internalID: -94182703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 392
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ccd27a5d0cefe43a6610728939e52f
+      internalID: -1799650066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 392
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378328bd1ccc56c48a9b7d261c48128d
+      internalID: 51303039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 392
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be10c49a1564d1243b64a93232857d2c
+      internalID: -955555790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 392
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98068d565954814f91107ec475ab592
+      internalID: -1594183112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 392
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03d72dea91eb98468a907a65e10811d
+      internalID: 992057667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 392
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468314c03bdccdd4e9aeedd1050f60b1
+      internalID: -841677071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 392
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49e3ce369275c74c889651250ffbf7e
+      internalID: 1715242992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 392
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6188df7056c79744785d52e121d196ab
+      internalID: 1149581002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_25
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 392
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d1802d4cb4447439f732ecaef11417
+      internalID: 2095740666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 409
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5236cd53525da4b8d6686f42ecdb49
+      internalID: 1655713760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 409
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754d645df73cafe49ae57194ffe0b48e
+      internalID: 1865447222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 409
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee01383c40290bc44954665c91fe4b97
+      internalID: -1448443521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_29
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 392
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d279035e2634644935a3ae3b2b5847
+      internalID: 1282023599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_30
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 392
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7feb5e80059c2149b9fbb16f1e0c81c
+      internalID: -1419456749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_31
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 392
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4403705068388418d9a24f4a8a4599
+      internalID: -1348774847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 392
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a437188101273de4c889dba59ebdc959
+      internalID: -1080836857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_33
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 392
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227fdc58895d3d242aec117435dc57b9
+      internalID: -1451503509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_34
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 392
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2382f138f9379114fb90b5248689b5d3
+      internalID: 490256958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_35
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 406
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e23ac6eb2d98e45a3e78a38224a13f
+      internalID: -1136238557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_36
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 385
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69282af6f4d9374e881dc6050a27299
+      internalID: -669619498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_37
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 391
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d62a81f6b49cbb419ded8d45c038228
+      internalID: 1596221340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_38
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 392
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ad8665ffab091438f487cd7c035e2f
+      internalID: -1233600919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_39
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 392
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7e0f0cca00b6946b1440c303717e09
+      internalID: 809785824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_40
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 392
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a137a3063899c49a15fc73aef090e2
+      internalID: 1874058821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_41
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 392
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1f239dafb1e154098bfefc40036ba7
+      internalID: 508570213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_42
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 391
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad82764c774b93469021b5e4130f3e6
+      internalID: -1902217384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_43
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581ba0140d5ca54448c2ecbd3d7e6e02
+      internalID: -1604936746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_44
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 392
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dda45a32197b342a4a9261d23ac763
+      internalID: -926302766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_45
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 392
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc10177ac5d89c849b3db5525afe1e42
+      internalID: -188641209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_46
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 392
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8772c8a99ada764ba6a6b5846985b6e
+      internalID: -1006645803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_47
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4f9c5dd0b1dc74e914b2d333245c81
+      internalID: -1190070668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_48
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 392
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f55790854343c49ac1b037d3c88478
+      internalID: 1507590304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 356
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6409e88b2f52249a3ee3f9a139a6ec
+      internalID: 1052959619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 356
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495a50fb50f493e4a8e90a455094408e
+      internalID: 1155715422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 356
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6257250d92f67842bf9c1b82084e0f6
+      internalID: 1824044220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_52
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 356
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9170038cde664a4ab06d142a77b9008
+      internalID: 1624227314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 356
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7f0db23404ea54993e7a190b88ac05
+      internalID: 1001793081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 356
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41114d4b022f6345949272965873376
+      internalID: -2022871286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_55
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 356
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da06c2035284e0c469b88c1cf7d0e46b
+      internalID: -2009458787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 356
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd0da282933e69498b1593d6afe979f
+      internalID: -359282438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_57
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 356
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbdcbd4af2bae749ae3d9e165aee90b
+      internalID: -1138837148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_58
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 356
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce377e5cfd7d804cb56c96fa79d1341
+      internalID: 881021794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_59
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 356
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9967912c31d4c74ea6023c207555c05
+      internalID: 1931412264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_60
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 356
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c0bb10f5815b459500eb265d05065
+      internalID: 1786148528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_61
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 375
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68c994d06320904d9b7f4f0e4e71061
+      internalID: 1224664294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_62
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 375
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bb553c592eb27408d69c9c3f644fc1
+      internalID: 2034411527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_63
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 375
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64dd35f46552e5489dd5ff3e152f036
+      internalID: -1084763724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_64
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 375
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c34d6a8c3ce3e6429eb1ee4ab815c41
+      internalID: 1842912897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_65
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 375
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b7b8fe941adb24eb1d920eac8c534d
+      internalID: 823406938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_66
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 375
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cd94dc8231fc648a84a1f270024b44
+      internalID: -1885962922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_67
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 375
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05716ed7122ce23418af8d481dcbf33c
+      internalID: 583787165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_68
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 356
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe305de9b834b6845bf7bad7c3ced7bf
+      internalID: -580819931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_69
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 373
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7b5eb9b26535846b5717bd782aa299
+      internalID: -569775692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_70
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 356
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c1151aa6951924caf5549894b8500e
+      internalID: -518105229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_71
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 372
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2c142b96e808c4ab559c2a07ca8f42
+      internalID: 1241905628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_72
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 356
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf96f88db37bafc4bacf25bca85581b1
+      internalID: 1364985514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_73
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 372
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e32b9ff538cd74e98f6b6d3461ad5c
+      internalID: -1461275057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_74
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 356
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5abdd4c37a62a448d1949d78e2bcb6
+      internalID: -220736830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_75
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 372
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e659d3d10b2c48affa252dbb8c645
+      internalID: -1971097546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_76
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 372
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae74558271487b499b07bb0f77852d6
+      internalID: 552395406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_77
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 356
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd2be6cb350fa54ebf3d877b782dab1
+      internalID: -1625986624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_78
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623a6bdc27f8f034f8651b14348a04a5
+      internalID: 1314881220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_79
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 375
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c5c9204b49f1b4dafbe16460fbda6f
+      internalID: -711790802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_80
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 375
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7440946f896a4680d23e46da8fa23
+      internalID: -733050859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_81
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 375
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f03e88ec1877447a5e528d92c04b29
+      internalID: 788799255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_82
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 341
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e297d262d742604099ffbba048c3b23
+      internalID: 1608454546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_83
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 342
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c7510b31423544f893ea4359f7fa44
+      internalID: 1844380274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_84
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 341
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1936df564d7694588b785bac694911
+      internalID: -1523890538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_85
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 346
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f54bf10d2f0fdc43aba462625971e5a
+      internalID: 520899434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_86
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 344
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03017a7228820454fb77fbc7392bae73
+      internalID: 706661218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_87
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 341
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36bd85d9c92ba9498ef7e0fc5c7a905
+      internalID: -317848681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_88
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 342
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7e779200d09d04988496aa6707082b
+      internalID: -2146080048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_89
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 341
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7284531358ca5d646b1b18a62ed17aed
+      internalID: -2064981518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_90
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 346
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5297d19390f947247aed37564e2b4549
+      internalID: -853225401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_91
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 344
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3b322694e7e364e9b534ce895d28b0
+      internalID: -406939055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_92
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 375
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a10ce9b94e66a7489d5d7115550e81d
+      internalID: -688791722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_93
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 375
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98760a6466c4d0741a3deff26aa53102
+      internalID: 281963640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_94
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 358
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39127ebd0d048f347ae00df013e5a453
+      internalID: 1991831837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_95
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 358
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cad08b1e5cb1ae479737b6f7d840bbd
+      internalID: 2040014732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_96
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 358
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8009684b1eb0ca4a87e294ce9141d20
+      internalID: 515798531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_97
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 358
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b06dba815005ae41ac85bf60aa295c4
+      internalID: 1383878372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_98
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 356
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998fc38cee1ff1044a9397d2fbedbc68
+      internalID: 1271874864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_99
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 358
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828fa5dc8f041004dbfb60af07d02bc2
+      internalID: -1569050919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_100
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 344
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b1d0b3ad73f2442a3f8296e7cc70a9
+      internalID: 1064096516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_101
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 335
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193a5b8d2bc1f364d85540ab2c4dc8bd
+      internalID: 1598367508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_102
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 335
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd3138b66e0aad4aaee193516668008
+      internalID: -2002612571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_103
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 344
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c029ff0e98c9c4385fc85aef56cb05
+      internalID: 1273000569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf25341a90c342c4a8a9d5f52f7f784e
+      internalID: -1715565571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_105
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6ebff9f1aafd24eaedb889776ec937
+      internalID: -722652657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_106
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578678e61329ff24d98c7542b448daa5
+      internalID: 973326578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_107
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd057e2ccbeff234abc7b6408ebf5300
+      internalID: 1648748461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_108
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 307
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4247be238f8cbb74593ef8850dca0590
+      internalID: 1808536261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_109
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 307
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7396469ad23c8a64caa0141d654b8187
+      internalID: -1107076404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_110
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d6989b30299da4b9cc1405af7f4a37
+      internalID: -1998509141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_111
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d2b9e73f7ba924a846d39e26f7686c
+      internalID: 574970039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_112
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 341
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94adb0a4b7a5cf747908f6334120d45b
+      internalID: 1333620089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_113
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d412817f4a29584b84a6cfd99431752
+      internalID: 873068208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_114
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9578bae5c86e19f418283438b7596055
+      internalID: 2117470751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_115
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118c2a677f7465845a65ecf812624e51
+      internalID: 858339066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_116
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71709952f9f72b8449f37dedce3a81ec
+      internalID: -1123096676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_117
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 313
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848763490579c784eaaadfef11c3472c
+      internalID: 1567570351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_118
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 313
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e357f474239c0a246b803c0021d9dc58
+      internalID: 400030232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_119
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1783e6fe96ab144eb044c4c7a9dda79
+      internalID: -358112784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_120
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 306
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba75bd8d85a2af84aad1ab75fd40a7fb
+      internalID: -1510195470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_121
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 307
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ddd9d746d4adc4499563c7cafd6678
+      internalID: -626974865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_122
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 307
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd33bcfb6fb719b47a405f2a0e1fd447
+      internalID: -741540114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_123
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 307
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add557c4becbf954387aea53d7caab08
+      internalID: 111726355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_124
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 307
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0665ce135018835429e52c401a0cdb4f
+      internalID: 1028221238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 307
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e917d361cb30f459460c1bdde423cb
+      internalID: 787540548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_126
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 307
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8dedeb7f60de24a97ec4b44bb63654
+      internalID: 1718000576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_127
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 324
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d6f496fd039de458327cf02da7a8a3
+      internalID: -1143947344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_128
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 324
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6c52f631b8fd349bd3a128f2e65db1
+      internalID: 1164629373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_129
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 324
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb6a75c648623743bede13d8d0b7005
+      internalID: 330505682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_130
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 307
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e9aeac472c453409e9809f3680c743
+      internalID: -1196337145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_131
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 307
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb57723139bc2b40acddec9e6b21094
+      internalID: -2068078518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_132
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 324
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ac6cb93dbfbd54c8109834c74f1bc4
+      internalID: 950606242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_133
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f11d3e63ca0f7428a722941d78bb32
+      internalID: -1779172534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_134
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 308
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7812e62834a2b49ac7807d1d2bb719
+      internalID: -1805934427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_135
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8488da089a6973b429106818d68867a9
+      internalID: -2058339458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_136
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 325
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182ac6f53e73c204e80863c39f661bd9
+      internalID: -1890335935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_137
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 325
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a419b6b97be724eb5b4049f57435f8
+      internalID: 772048655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_138
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 325
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ef1ab00a9195e4b80414f59da1d589
+      internalID: -428725698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_139
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87c04978f9cc0044a655ce8f7ac5cdf
+      internalID: 1499612128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_140
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5803a0fac8f147d49a86522b3c8c0808
+      internalID: -1114655357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_141
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24376e7da95780244833582a55a0c6e2
+      internalID: 1948674337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_142
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4a9f5bf6357ae4b9d178769de9900f
+      internalID: -1712585462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_143
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8780a9cc598dea49bdaeb61fa151b2d
+      internalID: -723248487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_144
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9492fd6383ca1604dab45189db8307b0
+      internalID: -1525867255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_145
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c026016a4ce3a46b325b31e97852ba
+      internalID: -2098784895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04565f7c7f5a01438524810845f39f3
+      internalID: 668438533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_147
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 307
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f952d2c0ffbafe8449eddedc00355e6e
+      internalID: 826729416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_148
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 307
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406f3a927a9bfae48b663ace04dbf0b0
+      internalID: 1430155715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_149
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb237737f2e94f14389b08dc818fc933
+      internalID: -1731071124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_150
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ca545568dc3734c9cd647b81f62827
+      internalID: 1464801467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_151
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9452c1b31360d44ad85544e8903922
+      internalID: 1577874860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_152
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b664209ebe1271d4d9f1f8ca7f311a3b
+      internalID: 1017559778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_153
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5648e4b2f8839764ab67a7c80d9ce3a6
+      internalID: 1231444780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_154
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 308
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a74690dfde0c74eb42b2e961732725
+      internalID: 262669465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_155
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 308
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea3d8fec53992347815363d628d0720
+      internalID: -1329107850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_156
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 308
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f735dfdeef140ee48b841d187717cc56
+      internalID: 1245620138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_157
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 308
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bba70c01db5614eb3ffd457724fe9e
+      internalID: -543775732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_158
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 308
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a490bd9b63bf04d88f7b632a50df14
+      internalID: 983513418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_159
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 308
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7feda6a7aeebf640a0367c05c531961
+      internalID: -99297667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_160
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 308
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b23c5f7bf7487444bcc420dc9e8a4eb
+      internalID: 465603787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_161
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba27cc7d6c61f2d4da2bb6612aef7be9
+      internalID: -1890384326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_162
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38595962a0fbf20469500bea265b0013
+      internalID: -463667919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_163
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 273
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78664f3cef930a544aa8ebddbd79b416
+      internalID: 69882330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_164
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f880639bbdc7a4698e2750d3505408
+      internalID: -904144499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_165
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eb47614a9f485499ad3e37f24cd779
+      internalID: 1297150968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_166
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6c9b89ee04d9446b76711b7991d542
+      internalID: -634223998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_167
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77afccf7e4f578748924a15838800ddb
+      internalID: 1223020102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_168
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4919adfae3373f4aaebc5a62c181087
+      internalID: 833423308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_169
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223add249a7fdbd4d82f1d9a96134123
+      internalID: 1957749723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_170
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2326e3716d4e474f97586323c736cc0
+      internalID: 559762070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_171
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc526ef195b5ce42a45bd4e71a395d2
+      internalID: -1996628502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_172
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84927ce2e79eced47b3c9170bf3e8d06
+      internalID: 428256814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_173
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 281
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08b0079cb886f8428b98046c8e2ef5c
+      internalID: -1758098890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_174
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 290
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd986e6187a38c428e163cce3fe4dc4
+      internalID: 932295003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_175
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 290
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879a67eb322b8f147913901f83dc0a5e
+      internalID: 633660912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_176
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 290
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e1cffcdc64a504aa3c78c02ee44c0d
+      internalID: -28598850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_177
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 290
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2068c44386146b245a71256135351c7d
+      internalID: -1183710096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_178
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 290
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfc7ea04922f5f438a615d22061d63e
+      internalID: -1602955126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_179
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 290
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fc9b7a35ee51e44897356bb265f452
+      internalID: 1190868513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_180
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 290
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362513490c1e32c4589552827c2675e8
+      internalID: 2041467073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_181
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf2cbfeab9e1b4582be2c8a9b691d8
+      internalID: 567096500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_182
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f837928316bc594daac3817340000d3
+      internalID: 2061950802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_183
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 273
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19c86afe58d057489d0bb84e33983e9
+      internalID: 736544734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_184
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dae6e523b2d6f24e8edfbd9089ad090
+      internalID: -4484031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_185
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5e374b1711e924393e711d3a7c042c
+      internalID: -316038202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_186
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8963bf592c4d11246ba23ea5460ea5f7
+      internalID: -1844594480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_187
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea88e9524a48fed42987dab0865bf87c
+      internalID: -987223024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_188
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd335328c8786194487854b36f54d024
+      internalID: 555228066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_189
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82df53420146224e86924190c3f20df
+      internalID: -1246895704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_190
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a4fd6f800803e41b35cfec2c2f85f3
+      internalID: -675007677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_191
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9f967b1523eaf4aac3ec2f31dde48f
+      internalID: -16855579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_192
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310c13c6b6390184d86a35f01f102aeb
+      internalID: -1891322340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_193
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faf2e9d72684464394c1e85a5376ece
+      internalID: -905252930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_194
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34028b5f221de48468d5e7cf032ce206
+      internalID: 689764075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_195
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a61a62b72a3a6745a46c0b263fd6bc8
+      internalID: -1043719241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_196
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 273
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2705059337f474bb082fbe78508b34
+      internalID: 1633229197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_197
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 273
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bcc3ce795d5dc49ba8ad28ef33c155
+      internalID: -1127648945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_198
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 273
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c411daefdd35300429cc9abe96356fcd
+      internalID: 978082170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_199
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 273
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be21312cf61136488e2e37a2849799f
+      internalID: 282150574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_200
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 273
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464c09cc05471ad44b61dbcda1b62928
+      internalID: -470244134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_201
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 273
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff5864370664f642a601eb104af1511
+      internalID: -1717336165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_202
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 273
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93629933a0843545847d0fafccc0cf4
+      internalID: 1813643995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_203
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526a27ed0df091940833cb666f01be20
+      internalID: 580226479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_204
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c55df0056cd744c94f3fc7ba9ef55e
+      internalID: 1196757687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_205
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae1dc6b8ff991841a659e9a14d6f496
+      internalID: 1676873500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_206
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187a9b5b415948348801740c0345d68b
+      internalID: 2015276889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_207
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffff0f62aaa1d442ac3a3935eb80c7b
+      internalID: -897292590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_208
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af9c76db7bb4a84d9eecca98f0855a5
+      internalID: -399888475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_209
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 232
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e51c4d2f6e2f94eac528442d646c08
+      internalID: -456671943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_210
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 224
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82f2899609f9214cbd26a1f3a505bc1
+      internalID: 370352406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_211
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 232
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46a430d2eaca6048885877ec8499daa
+      internalID: -225157203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_212
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 232
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782c6e93d3b741842826612017c8b092
+      internalID: -343053619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_213
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 232
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2affdc520cae64cacd3e58278e8ab7
+      internalID: -598127996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_214
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 232
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc70669ee89d35e4abed647e3d8fe2b8
+      internalID: 1979020126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_215
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 224
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2c3d08c51e47e4087c0cf21cbe6b39
+      internalID: -1410727108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_216
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 232
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c927b0cba43b71f479d8e2715ed40e15
+      internalID: -1222550592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_217
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 232
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0239709e54443ac42bd97dcdd2e4b48c
+      internalID: -1702530086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_218
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 232
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0acac6cae192e04993a6b812cadb879
+      internalID: -1571561485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_219
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 232
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6490ee513ed6b47a175bccb895ba31
+      internalID: -438314553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_220
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 216
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf7da31c7a4a6148bc9d7ed5892e1be
+      internalID: -2106764118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_221
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d960320024995479ba625defda6c64
+      internalID: 1258481755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_222
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffb806728cb5e148b9ea5ae2ee78dc5
+      internalID: 814170935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_223
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b77aaac5fe1fa04a81957978bebf74c
+      internalID: -121566829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_224
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69a5310ee966cf48b0e5fe96de7a8ee
+      internalID: 92681447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_225
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2a7a8b6d0ec04499168a0c48e44a43
+      internalID: 1023453823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_226
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8aad9110f1fad46854ca9ecbf796bb
+      internalID: 926631162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_227
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 249
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c97cbebe9b5cd4282d13ad162fecac
+      internalID: 1321370995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_228
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 232
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22309a17474eba642a2e1af7db89754e
+      internalID: 72646777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_229
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 227
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea75306ac0b68d044b807f2bcc5452f9
+      internalID: -3372126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_230
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 229
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b35c6c9f5302249b3274c5a115c432
+      internalID: -901452343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_231
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 232
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2974a2c4d407648918c948b7cfcc9d
+      internalID: 1156599303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_232
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 227
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0607be80b1d06b0468377b06576827be
+      internalID: -1104915056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_233
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 232
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bcb23e26323f14d9ae1afc3d1fe020
+      internalID: 1967672117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_234
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 232
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaa6102fd5468849b48554aaea1069d
+      internalID: -343152967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_235
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 232
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4662224b878e24ba885044366d5c04
+      internalID: 2028939483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_236
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 232
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638ff3c5377af3949aa4c361f59564da
+      internalID: -1188936929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_237
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 232
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c5148c9b6ec6f49ac70a524642eab1
+      internalID: 1405222231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_238
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 232
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d659b27f96aac174ab84dbb5054552bd
+      internalID: -1969777726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_239
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 232
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49c730ea9e1c264497ef912f2d3ebc3
+      internalID: -316781390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_240
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 232
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8af9f55d13abff439c21e2068e1c706
+      internalID: -383206185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_241
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 232
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e677f5171678764c9662fe52b1168b6
+      internalID: -319417746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_242
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 232
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7549360625d0971478ece35099d1ab25
+      internalID: -102170781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_243
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 232
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a87bd6fad7c34cb9835e23400be5a
+      internalID: 1549158700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_244
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 232
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b76160749688574eb67af6e6d31d388
+      internalID: 2038086897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_245
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026430373059e214987fff338f86cb52
+      internalID: 1753326862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_246
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 158
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5b351d3a19e9d43b661d8a74f701bf
+      internalID: -1449846304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_247
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff75e35b6ef64a4d9373c4cb0be173a
+      internalID: 1453120077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_248
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e2315bf6b53a844884207234ae239e
+      internalID: 470688970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_249
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d5a8ab5a3fd924ea3eb7fbd13ded2d
+      internalID: -1001077326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_250
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767ee636078c0484bbc60183444341f3
+      internalID: 390164384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_251
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 191
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef294838eb23a5c49aeb262936e27454
+      internalID: 1038228862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_252
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 191
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cedbb3a55bb0145a967d2e04cf8521
+      internalID: -1074089601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_253
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 191
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603533a48652f6d49974b317a9478717
+      internalID: -1533784047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_254
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 191
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14435857a12412543aa1361bc161fc15
+      internalID: -1750675148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_255
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97fe70ffb44bab47a0a4ddc89c7f40c
+      internalID: -506234034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_256
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3151fada84086040aa13725404b22cf
+      internalID: -185485947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_257
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94b959b287c6704daee50e7bb0aa76b
+      internalID: -1763021372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_258
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1632733e5eb0f804a920aaaf68b8b8f3
+      internalID: -1793642164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_259
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 191
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce70a8fc3494aca40a05a6f9e44c170a
+      internalID: 2015477945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_260
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 183
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0f402c8ee81324dbc04edbffe9115c
+      internalID: -2136392669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_261
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 183
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23428618c11bf964ea23f1b40b9d5a9d
+      internalID: -592570944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_262
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 191
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c802687eb5a214d9c649e4e2cedd4f
+      internalID: 1804320703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_263
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 155
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7516a12c51e732409398813a47b0218
+      internalID: 595819617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_264
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 158
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd91bbebe3c42b4db3a97a4ce984371
+      internalID: 1957549019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_265
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 155
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3663b8689e44d4f8e5071d8dbfd091
+      internalID: -123746513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_266
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 155
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d74c6919f1d4434aad7d3c0d5285aeb
+      internalID: -1998471045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_267
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 160
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f0f3ae32c40004e92b518b820eb3a2
+      internalID: 670950146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_268
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 186
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b484c754dd00aa48bdfe393fb6cc389
+      internalID: -1091188756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_269
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 181
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e182d4c39d27d34faafbad2c3434b8c
+      internalID: 2024210141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_270
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 183
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b488e7081cc585840a2df60b1cc173a7
+      internalID: -418938273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_271
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b9c2c5e2d2ff94da44b38fcf8c016a
+      internalID: 2141583891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_272
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 158
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aa129014ae71541872924dda8a4bbc
+      internalID: 1161575465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_273
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 158
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c06e22d6ab5fe41986bdce9a5f54d8
+      internalID: 1735881582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_274
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 158
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c85b205d9abec84b88fc11872166aea
+      internalID: 2110022210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_275
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30ae45b9ac462142a2b49b457b871d4
+      internalID: 1275928377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_276
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285b106de006efa4c87a5cae0d169fa7
+      internalID: 554319288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_277
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb5ce7dad9425b4fa85b67f95030aca
+      internalID: 1243681708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_278
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c85781ef7f6864db5bb5564432d2c7
+      internalID: -478997141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_279
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00df347cfaef3064a9118bb329c39022
+      internalID: -1643487817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_280
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd78b9a6ee740745a4071cf72c1b896
+      internalID: 1150718713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_281
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06815f14868c44f4aa95722854566025
+      internalID: -138945505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_282
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7247301947ab0249a66af14ef467f81
+      internalID: 1780821728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_283
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 148
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bec662b9bad304cb10d1023dba9b80
+      internalID: 1753530014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_284
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 148
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584d98342d5f81b40b583ede82ec230d
+      internalID: 528581427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_285
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 148
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bb5409c90299b49aa5f32e04bb5968
+      internalID: -14599033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_286
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 132
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255e4fea3f066e84883a18604f72ba0a
+      internalID: 1680968925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_287
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0191cdbd95f2f4740987b690815d0a02
+      internalID: -1538177991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_288
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 81
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8605353bb2946024abb43863f6564087
+      internalID: -71371274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_289
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 81
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b242209d63d8e984dad72d437d7c3416
+      internalID: -895245537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_290
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 81
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209dc79c2e5bbf045a60912086ed1e0d
+      internalID: 2141958129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_291
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 125
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1691a842b22542043902ddd09b6f0e33
+      internalID: -1717170368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_292
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 125
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dc9650c818730418f1fe0b99ada2eb
+      internalID: -199634878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_293
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 125
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77953085b988ab4f93bc33b7fdfa14f
+      internalID: 153298190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_294
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 125
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336d6630a163fc34fa171f8b9ba25e43
+      internalID: -2070133897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_295
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 125
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d98792f1dc890459657193e1058161
+      internalID: -1890026483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_296
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9b909382400874fa2cdce5a102f203
+      internalID: 704620922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_297
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 117
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620a5fc9fecced545872f647ee1668ed
+      internalID: -1605433978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_298
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 125
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30bbb4d1fa22c448a8d0c6c4210a69e
+      internalID: 1942867815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_299
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 78
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e1c44379f01e647823be396a6c6262
+      internalID: -874119198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_300
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 81
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36735a5f65236cd47af58e3544122fe4
+      internalID: 1596053558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_301
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 78
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ecfdd6667947041a4de26fde55602a
+      internalID: 1193086881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_302
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 78
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8854f0ac8a048146acc9e630f227483
+      internalID: -1012912277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_303
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 83
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d5387485efdbb4794e1fb3a66b2c2b
+      internalID: -1911428791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_304
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8575740dca50a0244a92b1cc878edf75
+      internalID: -1858707560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_305
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e74051056ce81418e4a7e94d527416
+      internalID: -695265091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_306
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b97406aa3cadea489b5c579cf8a1702
+      internalID: -1721482789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_307
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fb69740a284c54e966c44883dc87cb
+      internalID: 644676682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_308
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3e3b12cc0fc624a925289ba68dac7b
+      internalID: 2077694962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_309
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5e809cf11dcd244811732a7e598b65
+      internalID: 1069637348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_310
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1125e0928e8ab24884d86c64040b030
+      internalID: 954724053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_311
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bedaf25edb393a48a73537df64d570f
+      internalID: -2097085364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_312
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd45c8309c718764698395e73d9263d7
+      internalID: -149161667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_313
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c99ddad1d9482e4cac9b257a236171a
+      internalID: -1331557993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_314
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7c0b5b3df8a4842956c8573dce50a9
+      internalID: -1266035354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_315
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636806247e4322848a5f85a0aca77070
+      internalID: -1263642493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_316
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47ddd40fcf65714eada987d3e3c8736
+      internalID: -814750283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_317
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 38
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637070de575c67e418d9440294a8522e
+      internalID: -2058119489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_318
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc437eb1b3c6e41bf243229a68fded
+      internalID: 153804415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_319
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 4
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d2c7bde645df740a7b2f6e29d4d44a
+      internalID: 166699152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_320
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7921a796afe41994c949ed691a598aa7
+      internalID: 711718828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_321
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d56d773ca2ffb849b10421702d8f297
+      internalID: -950913324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_322
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 6
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429fe171a86dcd64f9ef2163ec618477
+      internalID: 1087997387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_323
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 38
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a442843e29c870040bbf0d9abf5738cf
+      internalID: -432239397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_324
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc0e9e085aa75547ab0ba96dad24885
+      internalID: -2014945822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Enemies and Obstacles_325
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff9b26271353d44f9980c362d594816
+      internalID: 262254004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Contra - Enemies and Obstacles_0: 1856153173
+      NES - Contra - Enemies and Obstacles_1: -184746116
+      NES - Contra - Enemies and Obstacles_10: 507900193
+      NES - Contra - Enemies and Obstacles_100: 1064096516
+      NES - Contra - Enemies and Obstacles_101: 1598367508
+      NES - Contra - Enemies and Obstacles_102: -2002612571
+      NES - Contra - Enemies and Obstacles_103: 1273000569
+      NES - Contra - Enemies and Obstacles_104: -1715565571
+      NES - Contra - Enemies and Obstacles_105: -722652657
+      NES - Contra - Enemies and Obstacles_106: 973326578
+      NES - Contra - Enemies and Obstacles_107: 1648748461
+      NES - Contra - Enemies and Obstacles_108: 1808536261
+      NES - Contra - Enemies and Obstacles_109: -1107076404
+      NES - Contra - Enemies and Obstacles_11: -1843591681
+      NES - Contra - Enemies and Obstacles_110: -1998509141
+      NES - Contra - Enemies and Obstacles_111: 574970039
+      NES - Contra - Enemies and Obstacles_112: 1333620089
+      NES - Contra - Enemies and Obstacles_113: 873068208
+      NES - Contra - Enemies and Obstacles_114: 2117470751
+      NES - Contra - Enemies and Obstacles_115: 858339066
+      NES - Contra - Enemies and Obstacles_116: -1123096676
+      NES - Contra - Enemies and Obstacles_117: 1567570351
+      NES - Contra - Enemies and Obstacles_118: 400030232
+      NES - Contra - Enemies and Obstacles_119: -358112784
+      NES - Contra - Enemies and Obstacles_12: -1354147590
+      NES - Contra - Enemies and Obstacles_120: -1510195470
+      NES - Contra - Enemies and Obstacles_121: -626974865
+      NES - Contra - Enemies and Obstacles_122: -741540114
+      NES - Contra - Enemies and Obstacles_123: 111726355
+      NES - Contra - Enemies and Obstacles_124: 1028221238
+      NES - Contra - Enemies and Obstacles_125: 787540548
+      NES - Contra - Enemies and Obstacles_126: 1718000576
+      NES - Contra - Enemies and Obstacles_127: -1143947344
+      NES - Contra - Enemies and Obstacles_128: 1164629373
+      NES - Contra - Enemies and Obstacles_129: 330505682
+      NES - Contra - Enemies and Obstacles_13: 1419620446
+      NES - Contra - Enemies and Obstacles_130: -1196337145
+      NES - Contra - Enemies and Obstacles_131: -2068078518
+      NES - Contra - Enemies and Obstacles_132: 950606242
+      NES - Contra - Enemies and Obstacles_133: -1779172534
+      NES - Contra - Enemies and Obstacles_134: -1805934427
+      NES - Contra - Enemies and Obstacles_135: -2058339458
+      NES - Contra - Enemies and Obstacles_136: -1890335935
+      NES - Contra - Enemies and Obstacles_137: 772048655
+      NES - Contra - Enemies and Obstacles_138: -428725698
+      NES - Contra - Enemies and Obstacles_139: 1499612128
+      NES - Contra - Enemies and Obstacles_14: -543418101
+      NES - Contra - Enemies and Obstacles_140: -1114655357
+      NES - Contra - Enemies and Obstacles_141: 1948674337
+      NES - Contra - Enemies and Obstacles_142: -1712585462
+      NES - Contra - Enemies and Obstacles_143: -723248487
+      NES - Contra - Enemies and Obstacles_144: -1525867255
+      NES - Contra - Enemies and Obstacles_145: -2098784895
+      NES - Contra - Enemies and Obstacles_146: 668438533
+      NES - Contra - Enemies and Obstacles_147: 826729416
+      NES - Contra - Enemies and Obstacles_148: 1430155715
+      NES - Contra - Enemies and Obstacles_149: -1731071124
+      NES - Contra - Enemies and Obstacles_15: 1565589559
+      NES - Contra - Enemies and Obstacles_150: 1464801467
+      NES - Contra - Enemies and Obstacles_151: 1577874860
+      NES - Contra - Enemies and Obstacles_152: 1017559778
+      NES - Contra - Enemies and Obstacles_153: 1231444780
+      NES - Contra - Enemies and Obstacles_154: 262669465
+      NES - Contra - Enemies and Obstacles_155: -1329107850
+      NES - Contra - Enemies and Obstacles_156: 1245620138
+      NES - Contra - Enemies and Obstacles_157: -543775732
+      NES - Contra - Enemies and Obstacles_158: 983513418
+      NES - Contra - Enemies and Obstacles_159: -99297667
+      NES - Contra - Enemies and Obstacles_16: -94182703
+      NES - Contra - Enemies and Obstacles_160: 465603787
+      NES - Contra - Enemies and Obstacles_161: -1890384326
+      NES - Contra - Enemies and Obstacles_162: -463667919
+      NES - Contra - Enemies and Obstacles_163: 69882330
+      NES - Contra - Enemies and Obstacles_164: -904144499
+      NES - Contra - Enemies and Obstacles_165: 1297150968
+      NES - Contra - Enemies and Obstacles_166: -634223998
+      NES - Contra - Enemies and Obstacles_167: 1223020102
+      NES - Contra - Enemies and Obstacles_168: 833423308
+      NES - Contra - Enemies and Obstacles_169: 1957749723
+      NES - Contra - Enemies and Obstacles_17: -1799650066
+      NES - Contra - Enemies and Obstacles_170: 559762070
+      NES - Contra - Enemies and Obstacles_171: -1996628502
+      NES - Contra - Enemies and Obstacles_172: 428256814
+      NES - Contra - Enemies and Obstacles_173: -1758098890
+      NES - Contra - Enemies and Obstacles_174: 932295003
+      NES - Contra - Enemies and Obstacles_175: 633660912
+      NES - Contra - Enemies and Obstacles_176: -28598850
+      NES - Contra - Enemies and Obstacles_177: -1183710096
+      NES - Contra - Enemies and Obstacles_178: -1602955126
+      NES - Contra - Enemies and Obstacles_179: 1190868513
+      NES - Contra - Enemies and Obstacles_18: 51303039
+      NES - Contra - Enemies and Obstacles_180: 2041467073
+      NES - Contra - Enemies and Obstacles_181: 567096500
+      NES - Contra - Enemies and Obstacles_182: 2061950802
+      NES - Contra - Enemies and Obstacles_183: 736544734
+      NES - Contra - Enemies and Obstacles_184: -4484031
+      NES - Contra - Enemies and Obstacles_185: -316038202
+      NES - Contra - Enemies and Obstacles_186: -1844594480
+      NES - Contra - Enemies and Obstacles_187: -987223024
+      NES - Contra - Enemies and Obstacles_188: 555228066
+      NES - Contra - Enemies and Obstacles_189: -1246895704
+      NES - Contra - Enemies and Obstacles_19: -955555790
+      NES - Contra - Enemies and Obstacles_190: -675007677
+      NES - Contra - Enemies and Obstacles_191: -16855579
+      NES - Contra - Enemies and Obstacles_192: -1891322340
+      NES - Contra - Enemies and Obstacles_193: -905252930
+      NES - Contra - Enemies and Obstacles_194: 689764075
+      NES - Contra - Enemies and Obstacles_195: -1043719241
+      NES - Contra - Enemies and Obstacles_196: 1633229197
+      NES - Contra - Enemies and Obstacles_197: -1127648945
+      NES - Contra - Enemies and Obstacles_198: 978082170
+      NES - Contra - Enemies and Obstacles_199: 282150574
+      NES - Contra - Enemies and Obstacles_2: -37157031
+      NES - Contra - Enemies and Obstacles_20: -1594183112
+      NES - Contra - Enemies and Obstacles_200: -470244134
+      NES - Contra - Enemies and Obstacles_201: -1717336165
+      NES - Contra - Enemies and Obstacles_202: 1813643995
+      NES - Contra - Enemies and Obstacles_203: 580226479
+      NES - Contra - Enemies and Obstacles_204: 1196757687
+      NES - Contra - Enemies and Obstacles_205: 1676873500
+      NES - Contra - Enemies and Obstacles_206: 2015276889
+      NES - Contra - Enemies and Obstacles_207: -897292590
+      NES - Contra - Enemies and Obstacles_208: -399888475
+      NES - Contra - Enemies and Obstacles_209: -456671943
+      NES - Contra - Enemies and Obstacles_21: 992057667
+      NES - Contra - Enemies and Obstacles_210: 370352406
+      NES - Contra - Enemies and Obstacles_211: -225157203
+      NES - Contra - Enemies and Obstacles_212: -343053619
+      NES - Contra - Enemies and Obstacles_213: -598127996
+      NES - Contra - Enemies and Obstacles_214: 1979020126
+      NES - Contra - Enemies and Obstacles_215: -1410727108
+      NES - Contra - Enemies and Obstacles_216: -1222550592
+      NES - Contra - Enemies and Obstacles_217: -1702530086
+      NES - Contra - Enemies and Obstacles_218: -1571561485
+      NES - Contra - Enemies and Obstacles_219: -438314553
+      NES - Contra - Enemies and Obstacles_22: -841677071
+      NES - Contra - Enemies and Obstacles_220: -2106764118
+      NES - Contra - Enemies and Obstacles_221: 1258481755
+      NES - Contra - Enemies and Obstacles_222: 814170935
+      NES - Contra - Enemies and Obstacles_223: -121566829
+      NES - Contra - Enemies and Obstacles_224: 92681447
+      NES - Contra - Enemies and Obstacles_225: 1023453823
+      NES - Contra - Enemies and Obstacles_226: 926631162
+      NES - Contra - Enemies and Obstacles_227: 1321370995
+      NES - Contra - Enemies and Obstacles_228: 72646777
+      NES - Contra - Enemies and Obstacles_229: -3372126
+      NES - Contra - Enemies and Obstacles_23: 1715242992
+      NES - Contra - Enemies and Obstacles_230: -901452343
+      NES - Contra - Enemies and Obstacles_231: 1156599303
+      NES - Contra - Enemies and Obstacles_232: -1104915056
+      NES - Contra - Enemies and Obstacles_233: 1967672117
+      NES - Contra - Enemies and Obstacles_234: -343152967
+      NES - Contra - Enemies and Obstacles_235: 2028939483
+      NES - Contra - Enemies and Obstacles_236: -1188936929
+      NES - Contra - Enemies and Obstacles_237: 1405222231
+      NES - Contra - Enemies and Obstacles_238: -1969777726
+      NES - Contra - Enemies and Obstacles_239: -316781390
+      NES - Contra - Enemies and Obstacles_24: 1149581002
+      NES - Contra - Enemies and Obstacles_240: -383206185
+      NES - Contra - Enemies and Obstacles_241: -319417746
+      NES - Contra - Enemies and Obstacles_242: -102170781
+      NES - Contra - Enemies and Obstacles_243: 1549158700
+      NES - Contra - Enemies and Obstacles_244: 2038086897
+      NES - Contra - Enemies and Obstacles_245: 1753326862
+      NES - Contra - Enemies and Obstacles_246: -1449846304
+      NES - Contra - Enemies and Obstacles_247: 1453120077
+      NES - Contra - Enemies and Obstacles_248: 470688970
+      NES - Contra - Enemies and Obstacles_249: -1001077326
+      NES - Contra - Enemies and Obstacles_25: 2095740666
+      NES - Contra - Enemies and Obstacles_250: 390164384
+      NES - Contra - Enemies and Obstacles_251: 1038228862
+      NES - Contra - Enemies and Obstacles_252: -1074089601
+      NES - Contra - Enemies and Obstacles_253: -1533784047
+      NES - Contra - Enemies and Obstacles_254: -1750675148
+      NES - Contra - Enemies and Obstacles_255: -506234034
+      NES - Contra - Enemies and Obstacles_256: -185485947
+      NES - Contra - Enemies and Obstacles_257: -1763021372
+      NES - Contra - Enemies and Obstacles_258: -1793642164
+      NES - Contra - Enemies and Obstacles_259: 2015477945
+      NES - Contra - Enemies and Obstacles_26: 1655713760
+      NES - Contra - Enemies and Obstacles_260: -2136392669
+      NES - Contra - Enemies and Obstacles_261: -592570944
+      NES - Contra - Enemies and Obstacles_262: 1804320703
+      NES - Contra - Enemies and Obstacles_263: 595819617
+      NES - Contra - Enemies and Obstacles_264: 1957549019
+      NES - Contra - Enemies and Obstacles_265: -123746513
+      NES - Contra - Enemies and Obstacles_266: -1998471045
+      NES - Contra - Enemies and Obstacles_267: 670950146
+      NES - Contra - Enemies and Obstacles_268: -1091188756
+      NES - Contra - Enemies and Obstacles_269: 2024210141
+      NES - Contra - Enemies and Obstacles_27: 1865447222
+      NES - Contra - Enemies and Obstacles_270: -418938273
+      NES - Contra - Enemies and Obstacles_271: 2141583891
+      NES - Contra - Enemies and Obstacles_272: 1161575465
+      NES - Contra - Enemies and Obstacles_273: 1735881582
+      NES - Contra - Enemies and Obstacles_274: 2110022210
+      NES - Contra - Enemies and Obstacles_275: 1275928377
+      NES - Contra - Enemies and Obstacles_276: 554319288
+      NES - Contra - Enemies and Obstacles_277: 1243681708
+      NES - Contra - Enemies and Obstacles_278: -478997141
+      NES - Contra - Enemies and Obstacles_279: -1643487817
+      NES - Contra - Enemies and Obstacles_28: -1448443521
+      NES - Contra - Enemies and Obstacles_280: 1150718713
+      NES - Contra - Enemies and Obstacles_281: -138945505
+      NES - Contra - Enemies and Obstacles_282: 1780821728
+      NES - Contra - Enemies and Obstacles_283: 1753530014
+      NES - Contra - Enemies and Obstacles_284: 528581427
+      NES - Contra - Enemies and Obstacles_285: -14599033
+      NES - Contra - Enemies and Obstacles_286: 1680968925
+      NES - Contra - Enemies and Obstacles_287: -1538177991
+      NES - Contra - Enemies and Obstacles_288: -71371274
+      NES - Contra - Enemies and Obstacles_289: -895245537
+      NES - Contra - Enemies and Obstacles_29: 1282023599
+      NES - Contra - Enemies and Obstacles_290: 2141958129
+      NES - Contra - Enemies and Obstacles_291: -1717170368
+      NES - Contra - Enemies and Obstacles_292: -199634878
+      NES - Contra - Enemies and Obstacles_293: 153298190
+      NES - Contra - Enemies and Obstacles_294: -2070133897
+      NES - Contra - Enemies and Obstacles_295: -1890026483
+      NES - Contra - Enemies and Obstacles_296: 704620922
+      NES - Contra - Enemies and Obstacles_297: -1605433978
+      NES - Contra - Enemies and Obstacles_298: 1942867815
+      NES - Contra - Enemies and Obstacles_299: -874119198
+      NES - Contra - Enemies and Obstacles_3: -1488181623
+      NES - Contra - Enemies and Obstacles_30: -1419456749
+      NES - Contra - Enemies and Obstacles_300: 1596053558
+      NES - Contra - Enemies and Obstacles_301: 1193086881
+      NES - Contra - Enemies and Obstacles_302: -1012912277
+      NES - Contra - Enemies and Obstacles_303: -1911428791
+      NES - Contra - Enemies and Obstacles_304: -1858707560
+      NES - Contra - Enemies and Obstacles_305: -695265091
+      NES - Contra - Enemies and Obstacles_306: -1721482789
+      NES - Contra - Enemies and Obstacles_307: 644676682
+      NES - Contra - Enemies and Obstacles_308: 2077694962
+      NES - Contra - Enemies and Obstacles_309: 1069637348
+      NES - Contra - Enemies and Obstacles_31: -1348774847
+      NES - Contra - Enemies and Obstacles_310: 954724053
+      NES - Contra - Enemies and Obstacles_311: -2097085364
+      NES - Contra - Enemies and Obstacles_312: -149161667
+      NES - Contra - Enemies and Obstacles_313: -1331557993
+      NES - Contra - Enemies and Obstacles_314: -1266035354
+      NES - Contra - Enemies and Obstacles_315: -1263642493
+      NES - Contra - Enemies and Obstacles_316: -814750283
+      NES - Contra - Enemies and Obstacles_317: -2058119489
+      NES - Contra - Enemies and Obstacles_318: 153804415
+      NES - Contra - Enemies and Obstacles_319: 166699152
+      NES - Contra - Enemies and Obstacles_32: -1080836857
+      NES - Contra - Enemies and Obstacles_320: 711718828
+      NES - Contra - Enemies and Obstacles_321: -950913324
+      NES - Contra - Enemies and Obstacles_322: 1087997387
+      NES - Contra - Enemies and Obstacles_323: -432239397
+      NES - Contra - Enemies and Obstacles_324: -2014945822
+      NES - Contra - Enemies and Obstacles_325: 262254004
+      NES - Contra - Enemies and Obstacles_33: -1451503509
+      NES - Contra - Enemies and Obstacles_34: 490256958
+      NES - Contra - Enemies and Obstacles_35: -1136238557
+      NES - Contra - Enemies and Obstacles_36: -669619498
+      NES - Contra - Enemies and Obstacles_37: 1596221340
+      NES - Contra - Enemies and Obstacles_38: -1233600919
+      NES - Contra - Enemies and Obstacles_39: 809785824
+      NES - Contra - Enemies and Obstacles_4: 1002958843
+      NES - Contra - Enemies and Obstacles_40: 1874058821
+      NES - Contra - Enemies and Obstacles_41: 508570213
+      NES - Contra - Enemies and Obstacles_42: -1902217384
+      NES - Contra - Enemies and Obstacles_43: -1604936746
+      NES - Contra - Enemies and Obstacles_44: -926302766
+      NES - Contra - Enemies and Obstacles_45: -188641209
+      NES - Contra - Enemies and Obstacles_46: -1006645803
+      NES - Contra - Enemies and Obstacles_47: -1190070668
+      NES - Contra - Enemies and Obstacles_48: 1507590304
+      NES - Contra - Enemies and Obstacles_49: 1052959619
+      NES - Contra - Enemies and Obstacles_5: -1157644779
+      NES - Contra - Enemies and Obstacles_50: 1155715422
+      NES - Contra - Enemies and Obstacles_51: 1824044220
+      NES - Contra - Enemies and Obstacles_52: 1624227314
+      NES - Contra - Enemies and Obstacles_53: 1001793081
+      NES - Contra - Enemies and Obstacles_54: -2022871286
+      NES - Contra - Enemies and Obstacles_55: -2009458787
+      NES - Contra - Enemies and Obstacles_56: -359282438
+      NES - Contra - Enemies and Obstacles_57: -1138837148
+      NES - Contra - Enemies and Obstacles_58: 881021794
+      NES - Contra - Enemies and Obstacles_59: 1931412264
+      NES - Contra - Enemies and Obstacles_6: 243268639
+      NES - Contra - Enemies and Obstacles_60: 1786148528
+      NES - Contra - Enemies and Obstacles_61: 1224664294
+      NES - Contra - Enemies and Obstacles_62: 2034411527
+      NES - Contra - Enemies and Obstacles_63: -1084763724
+      NES - Contra - Enemies and Obstacles_64: 1842912897
+      NES - Contra - Enemies and Obstacles_65: 823406938
+      NES - Contra - Enemies and Obstacles_66: -1885962922
+      NES - Contra - Enemies and Obstacles_67: 583787165
+      NES - Contra - Enemies and Obstacles_68: -580819931
+      NES - Contra - Enemies and Obstacles_69: -569775692
+      NES - Contra - Enemies and Obstacles_7: 725192988
+      NES - Contra - Enemies and Obstacles_70: -518105229
+      NES - Contra - Enemies and Obstacles_71: 1241905628
+      NES - Contra - Enemies and Obstacles_72: 1364985514
+      NES - Contra - Enemies and Obstacles_73: -1461275057
+      NES - Contra - Enemies and Obstacles_74: -220736830
+      NES - Contra - Enemies and Obstacles_75: -1971097546
+      NES - Contra - Enemies and Obstacles_76: 552395406
+      NES - Contra - Enemies and Obstacles_77: -1625986624
+      NES - Contra - Enemies and Obstacles_78: 1314881220
+      NES - Contra - Enemies and Obstacles_79: -711790802
+      NES - Contra - Enemies and Obstacles_8: -2104520832
+      NES - Contra - Enemies and Obstacles_80: -733050859
+      NES - Contra - Enemies and Obstacles_81: 788799255
+      NES - Contra - Enemies and Obstacles_82: 1608454546
+      NES - Contra - Enemies and Obstacles_83: 1844380274
+      NES - Contra - Enemies and Obstacles_84: -1523890538
+      NES - Contra - Enemies and Obstacles_85: 520899434
+      NES - Contra - Enemies and Obstacles_86: 706661218
+      NES - Contra - Enemies and Obstacles_87: -317848681
+      NES - Contra - Enemies and Obstacles_88: -2146080048
+      NES - Contra - Enemies and Obstacles_89: -2064981518
+      NES - Contra - Enemies and Obstacles_9: -2047796903
+      NES - Contra - Enemies and Obstacles_90: -853225401
+      NES - Contra - Enemies and Obstacles_91: -406939055
+      NES - Contra - Enemies and Obstacles_92: -688791722
+      NES - Contra - Enemies and Obstacles_93: 281963640
+      NES - Contra - Enemies and Obstacles_94: 1991831837
+      NES - Contra - Enemies and Obstacles_95: 2040014732
+      NES - Contra - Enemies and Obstacles_96: 515798531
+      NES - Contra - Enemies and Obstacles_97: 1383878372
+      NES - Contra - Enemies and Obstacles_98: 1271874864
+      NES - Contra - Enemies and Obstacles_99: -1569050919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
